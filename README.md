@@ -7,16 +7,16 @@ macOS Catalina (10.15.7) to BigSur (11.1) on a Dell XPS 9570 with Touch 4k Scree
 macOS BigSur: 11.1</p>
 </blockquote>
 
-<h4 class="code-line" data-line-start=7 data-line-end=8 ><a id="Hardware_configuration_7"></a>Hardware configuration:</h4>
+<h4 class="code-line" data-line-start=7 data-line-end=8 ><a id="Hardware_configuration_7"></a>My hardware configuration:</h4>
 <p class="has-line-data" data-line-start="8" data-line-end="18">Dell XPS 9570<br>
-CPU: Intel i7-8750H<br>
-Memory: 32GB 2x SK Hynix HMA82GS6CJR8N-VK<br>
-Display: Touch 4k Sharp<br>
-SSD: Samsung 970 EVO Plus NVMe M.2 SSD 1TB<br>
+CPU: Intel i5-8300<br>
+Memory: ADATA 2400 8G X2<br>
+Display: 1080P<br>
+SSD: HP S700<br>
 Trackpad: Synaptics SYNA2393<br>
 Touchscreen: Wacom WCOM488F<br>
 Sound: Realtek ALC3266 (similar to ALC298)<br>
-Wifi Card: replaced with DW 1560 - BCM94352Z<br>
+Wifi Card: replaced with intel ax200 (https://github.com/OpenIntelWireless/itlwm)<br>
 Battery: Dell 6GTPY battery (11.4V, 8083mAh, 97Wh stated capacity, reports as 7488mAh)</p>
 <h4 class="code-line" data-line-start=18 data-line-end=19 ><a id="Software_environment_18"></a>Software environment:</h4>
 <p class="has-line-data" data-line-start="19" data-line-end="21">macOS dual-booting with Windows 10<br>
